@@ -1,4 +1,4 @@
-  schintler71/dockerizing-django:
+  beo71/dockerizing-django:
   PkgInclude:
     - '*'
   PreInstall:
